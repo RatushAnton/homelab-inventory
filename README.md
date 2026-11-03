@@ -1,0 +1,1 @@
+A containerized API for tracking homelab devices, management IP addresses, locations, and maintenance notes. Built with FastAPI and PostgreSQL, with versioned database migrations and persistent storage.
